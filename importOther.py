@@ -1,0 +1,2 @@
+a = 'dasdsadsfjdhjkdrhsfjkdhasjkfhdesjkfhdjkshfkjadshfkjdsahfdskafadjkfhkjsdhfkjdsahfjkdsahfjkdashfjkadshfjkdhsfjkdhsfjkdhsfjkdhsjkfhdsjkfhdjksfhadjkshfajkdhfjkadshfkjdsahfkjadshfjkdshfjkdshfjkdashfjkashds'
+print(len(a))
