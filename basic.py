@@ -94,8 +94,18 @@ def math_muti1(l1, l2):
     return (math_add(l6[1], l6[0]))
 
 
+def math_division(l1, l2):
+    n1 = len(l1)
+    n2 = len(l2)
+
+    for i in range(n1 - 1):
+        l3 = l1[0:n2]
+        if
+
+
 if __name__ == '__main__':
     # math_muti()
     # print(math_add([7, 6, 9, 9, 9], [1, 1, 6]))
     # math_muti1([1, 3], [4, 2, 5])
-    print(math_muti1([4, 4, 7, 3], [4, 6]))
+    # print(math_muti1([4, 4, 7, 3], [4, 6]))
+    math_division([3, 1, 2, 6, 8, 4], [3, 2])
